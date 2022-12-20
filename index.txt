@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hi i am naru
 hi am himanshu
+=======
+Hi i am naru helllo
+hi am amol
+>>>>>>> 0f82f0fb05172ab1592583e80f41f1badb6661fe
+
+jhghgh
